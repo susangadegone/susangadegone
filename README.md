@@ -24,5 +24,6 @@ Let's Connect
 
 LinkedIn:https://www.linkedin.com/in/susannapage/
 Email: spgadegone@gmail.com
+https://susangadegone.github.io/susan-g-portfolio/
 
 Please take a look at my repos to see what I'm working on!
