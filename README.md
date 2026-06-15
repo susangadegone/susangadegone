@@ -6,20 +6,21 @@ I'm a product manager who builds wellness and productivity apps. I've independen
 
 What I Build
 
-Developed 13 apps using AI-assisted development to build product intuition and technical skills. These apps are tools that close the gap between mental health care and the people who need it.
+Wellness and mental health apps.
 
 I create practical solutions that address real problems I've witnessed in peer counseling settings from care continuity breakdowns to clinical communication gaps.
 
 What I'm Working On
 
 Learning to build with Python + AI APIs (Claude, OpenAI)
-Looking for: PM roles at mental health or digital health companies
+Looking for: roles at mental health or digital health companies, trust and safety, product management, user research
 
 Domain Expertise
 
 Clinical mental health care (direct patient experience)
 Care workflows, session continuity, therapist-patient communication
 HIPAA-sensitive product thinking
+
 Let's Connect
 
 LinkedIn:https://www.linkedin.com/in/susannapage/
