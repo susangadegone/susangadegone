@@ -12,7 +12,7 @@ That background shapes concrete product decisions: how I think about retention m
 
 - **[Roam](https://github.com/susangadegone/roam)** — an SF Bay Area wellness resource directory, built with SwiftUI and an Airtable backend, designed around behavioral activation framing to help users take small, concrete steps toward care instead of just browsing a list.
 - **[Cozy](https://github.com/susangadegone/Cozy)** — a no-shame home management app, built with SwiftUI and Supabase, that treats household upkeep as a mental-load problem rather than a productivity one.
-- **Promise vs. Experience Gap Pipeline** — an n8n workflow that calls the Claude API to score the gap between what digital health products claim and what users actually report experiencing, turning unstructured feedback into a structured signal for product teams.
+
 
 ### Domain expertise
 
