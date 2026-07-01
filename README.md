@@ -12,6 +12,8 @@ That background shapes concrete product decisions: how I think about retention m
 
 - **[Roam](https://github.com/susangadegone/roam)** — an SF Bay Area wellness resource directory, built with SwiftUI and an Airtable backend, designed around behavioral activation framing to help users take small, concrete steps toward care instead of just browsing a list.
 - **[Cozy](https://github.com/susangadegone/Cozy)** — a no-shame home management app, built with SwiftUI and Supabase, that treats household upkeep as a mental-load problem rather than a productivity one.
+- **[SF Tour Reserve App](https://github.com/susangadegone/SF-Tour-Reserve-App)** — an offline-first web app for planning day trips in San Francisco, built with Next.js and TypeScript with Mapbox for maps and Zustand for local-storage state, for visitors and locals who want to browse, favorite, and build timed itineraries without needing an account.
+- **[Celebrate India Festivals](https://github.com/susangadegone/Celebrate-India-Festivals)** — a Next.js and TypeScript site cataloging Hindi and Marathi festivals with history, recipes, decoration guides, and a calendar, built for people wanting to learn about or plan around Indian cultural celebrations.
 
 
 ### Domain expertise
